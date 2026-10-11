@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+*.zip
+Group Assignment.pdf
+train.csv
+test.csv
+sample_submission.csv
+
+# Local environment
+.env
+
+# Generated predictions (optional)
+# final_test_predictions.csv
